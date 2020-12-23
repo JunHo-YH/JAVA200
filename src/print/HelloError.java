@@ -1,3 +1,4 @@
+package print;
 // 화면에 출력하는 프로그램(오류: 세미클론 누락)
 public class HelloError {
 
