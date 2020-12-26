@@ -11,6 +11,7 @@ public class PlusMinus10 {
 		
 		System.out.printf("10을 더한 값은 %d입니다,\n", x+10);
 		System.out.printf("10을 뺀 값은 %d입니다.", x-10);
+		// 잔디가 안 심기는 현상 고치는 중
 	}
 
 }
