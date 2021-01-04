@@ -14,7 +14,7 @@ public class ArrayRand {
 		int[] a = new int[n];
 		
 		for (int i = 0; i < n; i++) {
-			a[i] = 1 + rand.nextInt(42);	// 1 ~ 10 난수
+			a[i] = 1 + rand.nextInt(42);	// 1 ~ 42 난수
 		}
 		
 		for (int i = 0; i < n; i++) {
