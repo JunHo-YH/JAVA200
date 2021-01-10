@@ -25,7 +25,7 @@ public class MonthCAI {
 			do {
 				month = rand.nextInt(12);
 				
-			} while (month == last);
+			} while (month == last) ;
 			last = month;
 			
 			while (true) {
