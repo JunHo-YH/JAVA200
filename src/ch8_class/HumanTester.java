@@ -1,6 +1,6 @@
 package ch8_class;
 
-import chapter6.SutdaCard;
+import chap6.SutdaCard;
 
 // 사람 클래스
 class Human {
