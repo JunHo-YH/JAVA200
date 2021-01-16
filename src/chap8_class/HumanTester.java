@@ -1,4 +1,4 @@
-package ch8_class;
+package chap8_class;
 
 import chap6.SutdaCard;
 

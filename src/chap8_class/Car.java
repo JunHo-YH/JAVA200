@@ -1,4 +1,4 @@
-package ch8_class;
+package chap8_class;
 
 public class Car {
 	private String name; // ¿Ã∏ß
