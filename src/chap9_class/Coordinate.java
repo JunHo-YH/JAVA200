@@ -1,4 +1,4 @@
-package ch9_class;
+package chap9_class;
 
 public class Coordinate {
 	private double x;
