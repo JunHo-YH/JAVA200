@@ -1,4 +1,4 @@
-package ch6_array;
+package chap6_array;
 
 public class DoubleArray {
 
