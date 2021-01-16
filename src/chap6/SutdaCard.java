@@ -1,4 +1,4 @@
-package chapter6;
+package chap6;
 
 public class SutdaCard {
 
